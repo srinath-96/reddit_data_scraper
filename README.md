@@ -19,7 +19,7 @@ Made a fun little Reddit scraper to create reddit datasets.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [<your-repository-url>](https://github.com/srinath-96/reddit_data_scrape)
+    git clone https://github.com/srinath-96/reddit_data_scrape
     cd reddit_data_scrape
     ```
 
